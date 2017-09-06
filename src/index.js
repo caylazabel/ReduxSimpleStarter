@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 // create component. this component// //should produce html.//
 
 const App = function() {
